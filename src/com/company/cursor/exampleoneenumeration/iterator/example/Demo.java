@@ -19,6 +19,7 @@ public class Demo {
             System.out.println("Book  Id : " + s.id + "Book Name : " + s.bookName + "Book Author : " +s.author);
 
             if (s.id == 111){
+                // To remove data from ArrayList we used iterator remove() method
                 bookIterator.remove();
             }
             if (s.bookName.equals("JavaBook")){
