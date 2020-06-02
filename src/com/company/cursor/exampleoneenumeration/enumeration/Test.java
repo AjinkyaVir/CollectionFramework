@@ -1,4 +1,4 @@
-package com.company.cursor.exampleoneenumeration;
+package com.company.cursor.exampleoneenumeration.enumeration;
 
 import java.util.Enumeration;
 import java.util.Vector;
